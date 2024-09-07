@@ -121,13 +121,6 @@ body {
   display: none;
 }
 
-
-
-
-
-
-
-
 /* Adicionando media query para telas menores */
 @media (max-width: 570px) {
   body {
